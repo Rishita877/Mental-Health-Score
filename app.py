@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered",
 )
 
-DEFAULT_API_URL = "http://127.0.0.1:8000"
+DEFAULT_API_URL = " https://mental-health-score-yv6d.onrender.com"
 
 COUNTRIES = [
     "India", "USA", "Canada", "Australia", "UK", "Germany", "Mexico",
